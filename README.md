@@ -1,5 +1,5 @@
 # ShenCeCup
-A competition on DataCastle which is about text keyword extraction ! Rank 6 / 622 !
+A competition on DataCastle which is about text keyword extraction ! Rank 6 / 622 !  
 [“神策杯”2018高校算法大师赛](http://www.dcjingsai.com/common/cmpt/%E2%80%9C%E7%A5%9E%E7%AD%96%E6%9D%AF%E2%80%9D2018%E9%AB%98%E6%A0%A1%E7%AE%97%E6%B3%95%E5%A4%A7%E5%B8%88%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)是一个只能高校在校生solo的单人赛。神策数据提供了10万篇左右资讯文章的标题以及正文，其中一千篇文章有对应的标注数据。标注数据中每篇文章的关键词不超过5个，关键词都在文章的标题或正文中出现过。根据已有的数据，需要训练一个“关键词提取”模型，提取没有标注数据的文章的关键词，每篇文章最多提交两个关键词。
 最终排名：6 / 622
 附：[github地址](https://github.com/RHKeng/ShenCeCup)
